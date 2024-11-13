@@ -1,0 +1,21 @@
+Các lệnh cần dùng chính: git branch -a (xem và cập nhật nhánh)
+
+
+git checkout tên nhánh : để đi vào các nhánh của repo
+
+git pull : đồng bộ repo về máy
+
+git pull origin main : cập nhật source nhanh main
+
+git add . : cập nhật toàn bộ file đã chỉnh sửa vào STAGE AREA
+
+git status : kiểm tra những file nào được add vào SA
+
+
+git commit -m “Nội dung cập nhật” : đưa nào local repo
+
+git pull : trước khi upload lên thì phải pull lại đề phòng có sự xung đột
+
+git pull origin main:
+
+git push : đẩy code lên remote repo
